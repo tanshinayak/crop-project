@@ -1,0 +1,41 @@
+.l{
+position: absolute;
+top: 30%;
+left: 40%;
+}
+.m{
+position: absolute;
+top: 40%;
+left: 39%;
+}
+.h{
+width: bold;
+color: red;
+position: absolute;
+top: 10%;
+left: 25%;
+font-weight: bold;
+font-size: 40px;
+}
+.b{
+position: absolute;
+top: 50%;
+left: 50%;
+border-radius: 10px;
+border-width: thick;
+height: 30px;
+width: 90px;
+}
+a:link, a:visited{
+text-decoration: none;
+}
+.i{
+width: 200px;
+height: 30px;
+background: none;
+}
+.j{
+width: 200px;
+height: 30px;
+background: none;
+}

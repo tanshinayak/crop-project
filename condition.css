@@ -1,0 +1,21 @@
+l{
+position: absolute;
+top: 25%;
+left: 40%;
+}
+m{
+position: absolute;
+top: 25%;
+left: 80%;
+}
+.b{
+position: absolute;
+top: 25%;
+left: 40%;
+border-radius: 10px;
+width: 80px;
+}
+.h{
+text-align: center;
+color: brown;
+}

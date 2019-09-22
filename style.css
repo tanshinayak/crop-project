@@ -1,0 +1,100 @@
+.h1{
+position: absolute;
+top: 28%;
+left:18%;
+text-align: center;
+font-family: Georgia;
+font-size: 50px;
+color: white;
+}
+.b1{
+display: inline-block;
+border-width: thick;
+position: absolute;
+top: 60%;
+left: 55%;
+padding: 15px 32px ;
+border-radius: 13px;
+font-weight: bold;
+color: white;
+text-decoration: none;
+}
+.b2{
+align: center;
+border-width: thick;
+position: absolute;
+top: 60%;
+left: 5%;
+width: 250px;
+height: 50px;
+border-radius: 13px;
+font-weight: bold;
+color: white;
+text-decoration: none;
+}
+.b3{
+align: center;
+border-width: medium;
+position: absolute;
+top: 60%;
+left: 75%;
+width: 250px;
+height: 50px;
+border-radius: 13px;
+font-weight: bold;
+color: white;
+text-decoration: none;
+}
+.b4{
+align: center;
+border-width: medium;
+position: absolute;
+top: 60%;
+left: 30%;
+width: 250px;
+height: 50px;
+border-radius: 13px;
+font-weight: bold;
+color: white;
+text-decoration: none;
+}
+.f1{
+position: absolute;
+top: 5%;
+left: 52%;
+width: 100px;
+background: yellow;
+border-color: yellow;
+border-width: thick;
+border-radius: 10px;
+font-weight: bold;
+padding: 10px;
+color: black;
+}
+.f2{
+top: 5%;
+position: absolute;
+left: 65%;
+width: 100px;
+background: yellow;
+border-color: yellow;
+border-width: thick;
+border-radius: 10px;
+font-weight: bold;
+padding: 10px;
+}
+.f3{
+top: 5%;
+position: absolute;
+left: 78%;
+background: yellow;
+border-radius: 10px;
+border-color: yellow;
+border-width: thick;
+font-weight: bold;
+padding: 10px;
+}
+a:link, a:visited{
+text-decoration: none;
+color: black;
+}

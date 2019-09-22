@@ -1,0 +1,17 @@
+.l{
+position: absolute;
+top: 10%;
+left: 40%;
+}
+.h{
+color: brown;
+text-align: center;
+}
+.b{
+position: absolute;
+top: 15%;
+left: 45%;
+border-radius: 10px;
+height: 35px;
+width: 65px;
+}
